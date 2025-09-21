@@ -12,4 +12,4 @@
 *.log
 
 # Jacoco report (делаем исключение для отчёта)
-!target/site/jacoco/
+!/target/site/jacoco/
